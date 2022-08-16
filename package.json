@@ -1,0 +1,33 @@
+{
+  "name": "baidumapdemo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link": "^1.2.14",
+    "apollo-link-http": "^1.5.17",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.5",
+    "graphql": "^15.0.0",
+    "graphql-tag": "^2.12.6",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "pinia": "^2.0.18",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.54.4",
+    "sass-loader": "^13.0.2",
+    "unplugin-auto-import": "^0.11.1",
+    "vite": "^3.0.7",
+    "webpack": "^5.0.0"
+  }
+}
