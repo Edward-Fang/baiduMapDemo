@@ -18,7 +18,7 @@ specifiers:
   unplugin-auto-import: ^0.11.1
   vite: ^3.0.7
   vue: ^3.2.37
-  webpack: '5'
+  webpack: ^5.0.0
 
 dependencies:
   apollo-cache-inmemory: registry.npmmirror.com/apollo-cache-inmemory/1.6.6_graphql@15.8.0
